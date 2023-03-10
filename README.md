@@ -8,7 +8,7 @@
 
 - 👨‍💻 Все мои проекты доступны на [https://github.com/Modueva](https://github.com/Modueva)
 
-- 📫 Как со мной связаться **begimai.modueva,ch22@gmail.com **
+- 📫 Как со мной связаться ** begimai.modueva.ch22@gmail.com **
 
 <h3 align="left">Социальные сети:</h3>
 <div align="center">
