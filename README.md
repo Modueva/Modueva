@@ -1,11 +1,6 @@
 <h1 align="center">Привет 👋, я Бегимай</h1>
 <h3 > Я начинающий веб разработчик. Мой путь в it начался в унверситета КГЮА где я пробовал себя во многих направлениях, пробовал изучать язык С#, Python, java, javaScript но больше всего меня зацепила веб разработка! С апреля 2022 года начался мой путь в веб разработке с менторской группы IT-KYZ , где я обучаюсь по сей день!</h3>
 
-<p align="left"> <img src="https:/ /komarev.com/ghpvc/?username=modueva&label=Profile%20views&color=0e75b6&style=flat" alt="modueva" /> </p>
-
-<p align="left"> <a href="https://github. com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=modueva" alt="modueva" /></a> </ p>
-
-<p align="left"> <a href="https://twitter.com/begimaiasylbek" target="blank"><img src="https://img.shields.io/twitter/follow/ бегимайасилбек?logo=twitter&style=for-the-badge" alt="begimaiasylbek" /></a> </p>
 
 - 🔭 Сейчас я работаю над [Modueva/ReactPizza](https://github.com/Modueva/ReactPizza)
 
@@ -16,13 +11,24 @@
 - 📫 Как со мной связаться **begimai.modueva,ch22@gmail.com **
 
 <h3 align="left">Социальные сети:</h3>
-<p align="left">
-<a href="https://twitter.com/begimaiasylbek" target="blank"><img align ="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="begimaiasylbek" height="30 " width="40" /></a>
-<a href="https://linkedin.com/in/begimai modueva" target="blank"><img align="center" src="https:// сырой.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="begimai modueva" height="30" width="40" /></ а>
-<a href="https://fb.com/бегимай модуева" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- генератор/мастер/src/images/icons/Social/facebook.svg" alt="бегимай модуева" height="30" width="40" /></a> <a href="
-https://instagram.com /begimai_asylbekovna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram .svg" alt="begimai_asylbekovna" height="30" width="40" /></a>
-<a href="https://discord.gg/begimai.modueva #7908" target="blank">< img выровнять = "по центру"src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="begimai.modueva #7908" height="30 " ширина = "40" /></a>
-</p>
+<div align="center">
+<a href="https://github.com/Modueva" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/begimaiasylbek" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/begimai Modueva" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.facebook.com/Бегимай Модуева" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/begimai_asylbekovna" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
 
 <h3 align="left">💻 Технологии:</h3>
 <p align="left">
